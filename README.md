@@ -15,7 +15,7 @@ Currently, I'm working on several exciting projects including:
 ## 🌐 Socials:
  
 [GitHub](https://github.com/gIthinji009)
-[Email](githinjilaban22@gmail.com)
+Email: githinjilaban22@gmail.com
 
 
 ---
