@@ -48,10 +48,6 @@ Git • GitHub • GitHub Actions • GitLab CI • NPM • Yarn
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gIthinji009&layout=compact&theme=tokyonight)
 
----
-
-## 🐍 Python Snake Activity (Optional Fun Section)
-![GitHub Snake Animation](https://github.com/gIthinji009/gIthinji009/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
