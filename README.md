@@ -15,6 +15,8 @@ Currently, I'm working on several exciting projects including:
 ## 🌐 Socials:
  
 [GitHub](https://github.com/gIthinji009)
+[Email](githinjilaban22@gmail.com)
+
 
 ---
 
@@ -31,22 +33,40 @@ Vercel • Render • Netlify
 
 **Dev Tools:**  
 Git • GitHub • GitHub Actions • GitLab CI • NPM • Yarn
-
-**Other Interests:**  
-Steam 🎮 • Xbox 🎮
+## 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=gIthinji009&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 
 ---
 
-## 📊 GitHub Stats:
+## 📌 Top Contributed Repositories
+![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=gIthinji009&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+---
+
+## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gIthinji009&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gIthinji009&layout=compact&theme=tokyonight)
 
+---
+
+## 🐍 Python Snake Activity (Optional Fun Section)
+![GitHub Snake Animation](https://github.com/gIthinji009/gIthinji009/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 🐍 Tech Stack Badges
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+---
+
+## 👀 Profile Views
 ![](https://komarev.com/ghpvc/?username=gIthinji009&color=blue)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=gIthinji009&theme=tokyonight)
+---
+
+
+
 
 <!--
 **gIthinji009/gIthinji009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
